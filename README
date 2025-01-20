@@ -1,0 +1,1 @@
+Make Sure to add rigidbody 2D to the car object. Script physics changes when car is on the something else than on the road. For that you must add terrain tag to your terrain and set the colider for to is trigger
